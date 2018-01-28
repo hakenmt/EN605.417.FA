@@ -4,6 +4,7 @@
 // By Ingemar Ragnemalm, based on the hello.c demo.
 // Updated 2013 for newer OpenCL versions and #ifdef for Linux
 // http://computer-graphics.se/multicore/pdf/hello_world_cl.c
+// Updated for Michael Haken
 
 #include <stdio.h>
 #include <math.h>
